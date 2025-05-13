@@ -1,0 +1,1 @@
+cmd_/home/thuong/BBB/character_device/simple_chdev.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/thuong/BBB/character_device/simple_chdev.ko /home/thuong/BBB/character_device/simple_chdev.o /home/thuong/BBB/character_device/simple_chdev.mod.o ;  true

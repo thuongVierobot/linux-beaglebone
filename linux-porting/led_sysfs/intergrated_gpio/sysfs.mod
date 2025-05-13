@@ -1,0 +1,2 @@
+/home/bbb/BBB/working_space/led_sysfs/sysfs.o
+

@@ -1,0 +1,1 @@
+cmd_/home/bbb/BBB/working_space/led_sysfs/my_sysfs/direction_entry/bbb_sysfs.mod := { echo  /home/bbb/BBB/working_space/led_sysfs/my_sysfs/direction_entry/bbb_sysfs.o;  echo; } > /home/bbb/BBB/working_space/led_sysfs/my_sysfs/direction_entry/bbb_sysfs.mod
